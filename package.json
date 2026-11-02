@@ -1,7 +1,7 @@
 {
   "name": "sequelize-library-api",
   "version": "1.0.0",
-  "description": "Small library API built to learn Sequelize: migrations, models, associations, transactions, tests",
+  "description": "REST API for a small library: authors, books, members and loans",
   "type": "module",
   "main": "src/server.js",
   "scripts": {
