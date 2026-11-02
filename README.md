@@ -1,4 +1,4 @@
-# Library API — learning Sequelize
+# Library API: learning Sequelize
 
 A small library system (authors, books, members, loans) built to learn
 [Sequelize](https://sequelize.org/) with PostgreSQL. Express 5, Node 22, Jest.
